@@ -1,2 +1,4 @@
 # hello-world
-Demo repository
+
+New to GitHub.
+Learning basics.
